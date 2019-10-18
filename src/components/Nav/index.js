@@ -12,10 +12,10 @@ export default function index() {
           <Link to="/tracker">Tracker</Link>
         </li>
         <li>
-          <Link to="/journal">Dashboard</Link>
+          <Link to="/journal">Journal</Link>
         </li>
         <li>
-          <Link to="/stats">About</Link>
+          <Link to="/stats">Stats</Link>
         </li>
       </ul>
         </nav>
